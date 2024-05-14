@@ -1,0 +1,7 @@
+/CuraEngine
+/lib/*
+
+*.pyc
+*.vscode
+/tests
+tests.py
